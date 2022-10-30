@@ -4,10 +4,8 @@ This repository contains the solution of the second homework.
 
 A short description of the files in this repository:
 
-⋅⋅* `HW2_group_9.ipynb`
+1. `HW2_group_9.ipynb`: this file contains all the solutions except for the command line question.
 
-...this file contains all the solutions except for the command line question.
+2. `import_data.sh` and `CommandLine.sh`:
 
-..*`import_data.sh` and `CommandLine.sh`
 
-...
