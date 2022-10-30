@@ -10,4 +10,5 @@ A short description of the files in this repository:
 
 3. `CommandLine.sh`: this files contains the solution of the command line question.
 
+As suggested, this is the link of the notebook: https://nbviewer.org/github/AuroraBassani/ADM-HW2-group-9/blob/main/HW2_group_9.ipynb
 
